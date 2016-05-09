@@ -21,8 +21,8 @@ public class MainActivity extends Activity {
 	final Location homeLocation = new Location("");
 	
 	// TEST
-	final double LatTest = 44.440;
-	final double LonTest = 11.310;
+	final double LatTest = 44.448;
+	final double LonTest = 11.328;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
