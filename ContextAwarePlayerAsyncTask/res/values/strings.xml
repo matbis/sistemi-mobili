@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Context Aware Player</string>
+    <string name="desc_msg">Press "Play!" button and find your location!</string>
+    <string name="play_button">Play!</string>
+    
+    <color name="bkgd_color">#3b5998</color>
+    <color name="button_color">#d62d20</color>
+    <color name="font_color">#dfe3ee</color>
+
+</resources>
